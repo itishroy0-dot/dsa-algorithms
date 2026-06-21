@@ -1,0 +1,2 @@
+As the volume of logistics data increases from thousands to millions of records, basic linear
+structures become insufficient. The intermediate tier introduces algorithms that utilize divideand-conquer and priority-based logic to maintain system responsiveness.
